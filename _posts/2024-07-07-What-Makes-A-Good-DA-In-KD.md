@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper not: What Makes A Good DA In KD
+title: Paper note - What Makes A Good DA In KD
 date: 2024-07-07 17:00:00
 description: A reading note of the paper.
 tags: Papers NIPS2022
