@@ -1,6 +1,6 @@
-primary_name: "Your Name"
+primary_name: "這是一個placeholder"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "這是一個placeholder"
 
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
