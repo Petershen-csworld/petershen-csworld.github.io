@@ -1,5 +1,5 @@
 homepage:
-  show_experience: false
+  show_experience: true
   show_news: false
   show_selected_publications: false
   num_news: 10
