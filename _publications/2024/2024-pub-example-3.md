@@ -5,7 +5,7 @@ selected:       true
 pub:            "SIGIR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">你好</span>'
 pub_date:       "2025"
 
 abstract: >- Mitigating gender bias.
