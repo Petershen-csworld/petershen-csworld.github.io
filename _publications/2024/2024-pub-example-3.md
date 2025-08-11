@@ -7,7 +7,6 @@ pub:            "SIGIR"
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">你好</span>'
 pub_date:       "2025"
-
 abstract: >- Mitigating gender bias.
 cover:          /assets/images/covers/cover3.jpg
 authors:
