@@ -52,11 +52,7 @@ My name is Haoyu Shen. 。
 
 # 💼 Internships
 
-- **May 2024 - Nov 2024**: Research Intern, ENCODE LAB, WestLake University (Advised by Prof. [Huan Wang](https://huanwang.tech/))
-<!-- - **Sep 2024 - Nov 2024**: Research Intern, EPIC LAB, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/)) -->
-- **Mar 2025 - Jun 2025**: Research Intern, MMLab@HKU & VAST (Advised by Prof. [Xihui Liu](https://xh-liu.github.io/) and [Yan-Pei Cao](https://yanpei.me/))
-- **Jul 2025 - Oct 2025**: Research Intern, MMLab@NTU (Advised by Prof. [Xingang Pan](https://xingangpan.github.io/))
-
+- **May 2024 - Nov 2024**: 太魯閣灌灌灌灌
 
 
 
@@ -65,7 +61,7 @@ My name is Haoyu Shen. 。
 
 <!-- ## 🔗 Links
 
-- Advisor: [Zhaobo Qi](https://scholar.google.com.hk/citations?user=QZ8URKAAAAAJ&hl=zh-CN), [Huan Wang](https://huanwang.tech/), [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang), [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/) -->
+- Advisor:
 
 # 🛠 Tech Stack & Latest Blogs
 
