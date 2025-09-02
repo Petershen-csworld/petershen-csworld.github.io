@@ -28,9 +28,7 @@ My name is Haoyu Shen. 。
 
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=WiserZhou&label=Profile%20views&color=yellow&style=for-the-badge&logo=star&base=0&abbreviated=true" alt="Profile views" />
-</p>
+
 
 # 🔥 News
 
