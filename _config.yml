@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yufan Zhou"
-description              : "Student at Harbin Institute of Technology"
-repository               : "WiserZhou/WiserZhou.github.io"
+title                    : "Haoyu Shen"
+description              : "Student at University of Science and Technology of China"
+repository               : "youtube.com"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,21 +23,21 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Yufan Zhou"
   avatar           : "images/photo.jpg"
-  bio              : "Harbin Institute of Technology"
+  bio              : "University of Science and Technology of China"
   location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AFix5MbNV8azkX-t-6P_nxXFIp-ZYedZLbzJBU7Y9LeDAW_1JbzlAlXShJ_HEpepzVWI7h9VmKXmWByMvAkQZQ&user=dNe36RoAAAAJ"
-  email            : "yfzhou@stu.hit.edu.cn"
+  email            : "windyyxz@"
   researchgate     :
-  uri              : "http://WiserZhou.github.io"
+  uri              : "http://petershen-csworld.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WiserZhou"
+  github           : "Peter shen"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "WZhou72767"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
