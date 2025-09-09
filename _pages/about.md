@@ -39,13 +39,12 @@ My name is Haoyu Shen. 。
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">SIGIR2025</div>
       <img src='images/sigir2025-logo-yb2.svg' alt="sym" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-## Fair Recommendation with Biased-Limited Sensitive Attribute
+## [Fair Recommendation with Biased-Limited Sensitive Attribute](https://dl.acm.org/doi/pdf/10.1145/3726302.3729974)
 
 **Jizhi Zhang**, **Haoyu Shen**, Tianhao Shi, Keqin Bao, Xin Chen, Yang Zhang, Fuli Feng
 
