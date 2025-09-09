@@ -45,6 +45,10 @@ My name is Haoyu Shen. 。
   </div>
 <div class='paper-box-text' markdown="1">
 
+## Fair Recommendation with Biased-Limited Sensitive Attribute
+
+Jizhi Zhang*, Haoyu Shen*, Tianhao Shi, Keqin Bao, Xin Chen, Yang Zhang, Fuli Feng
+
 
 
 
