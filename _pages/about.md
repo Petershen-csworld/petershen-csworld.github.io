@@ -40,7 +40,7 @@ My name is Haoyu Shen. 。
   <div class='paper-box-image'>
     <div>
       <div class="badge">SIGIR2025</div>
-      <img src='images/OmniPart.png' alt="sym" width="100%">
+      <img src='images/sigir2025-logo-yb2.svg' alt="sym" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
