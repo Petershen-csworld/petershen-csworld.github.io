@@ -22,7 +22,7 @@ My name is Haoyu Shen. 。
 
 <p>I am interested in VLM and generative models.</p>
 
-# 📝 Publications 
+# Publications 
 <!--  -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -40,9 +40,11 @@ My name is Haoyu Shen. 。
 <!--  -->
 
 
-# 💼 Internships
+# Experiences
 
-- **May 2024 - Nov 2024**: 太魯閣灌灌灌灌
+- **Pre**: University of California, San Diego    advised by: [Zhuowen Tu](https://pages.ucsd.edu/~ztu/)
+- **April 2025 -  Pre**: Stony Brook University, New York   advised by: [Tengfei Ma](https://sites.google.com/site/matf0123/home)
+- **2024-April 2025**: USTC LDS lab, advised by: [Jizhi zhang](https://scholar.google.com/citations?user=rfnARlcAAAAJ&hl=zh-CN) , [Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en)
 
 
 
