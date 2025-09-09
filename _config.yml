@@ -21,14 +21,14 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Yufan Zhou"
+  name             : "Haoyu Shen"
   avatar           : "images/photo.jpg"
   bio              : "University of Science and Technology of China"
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AFix5MbNV8azkX-t-6P_nxXFIp-ZYedZLbzJBU7Y9LeDAW_1JbzlAlXShJ_HEpepzVWI7h9VmKXmWByMvAkQZQ&user=dNe36RoAAAAJ"
-  email            : "windyyxz@"
+  googlescholar    : 
+  email            : "windyyxz@nail.ustc.edu.cn"
   researchgate     :
   uri              : "http://petershen-csworld.github.io"
   bitbucket        :
