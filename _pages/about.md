@@ -25,16 +25,7 @@ My name is Haoyu Shen. 。
 
 <p>I am interested in VLM and generative models.</p>
 
-
-
-
-
-
-# 🔥 News
-
-
 # 📝 Publications 
-
 <!--  -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -49,8 +40,7 @@ My name is Haoyu Shen. 。
 **Jizhi Zhang**, **Haoyu Shen**, Tianhao Shi, Keqin Bao, Xin Chen, Yang Zhang, Fuli Feng
 
 
-
-
+<!--  -->
 
 
 # 💼 Internships
