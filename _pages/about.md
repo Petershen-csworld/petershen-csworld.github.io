@@ -17,9 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!--Header Name-->
-![Emoji](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430){: width="30" align="left" }*Thanks to https://wiserzhou.github.io/*
-
 <!--Start Intro-->
 My name is Haoyu Shen. 。
 
