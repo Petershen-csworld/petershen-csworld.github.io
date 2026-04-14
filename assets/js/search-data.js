@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-johnson-lindenstrauss-lemma-informal",
+        
+          title: "Johnson Lindenstrauss Lemma (Informal)",
+        
+        description: "J-L Lemma",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/JL-Lemma/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
