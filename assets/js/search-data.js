@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-銀河修理員",
-        
-          title: "銀河修理員",
-        
-        description: "爲什麽香港是香港",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/hongkong/";
-          
-        },
-      },{id: "post-a-post-with-plotly-js",
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
