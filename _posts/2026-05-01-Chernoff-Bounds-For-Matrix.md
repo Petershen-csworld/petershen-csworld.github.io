@@ -54,22 +54,26 @@ $$
 We state the following result without proof; a detailed derivation deserves a separate discussion due to its technical depth.  
   
 Let $H$ be a Hermitian matrix. Then the function  
+
 $$ 
 A \;\mapsto\; \operatorname{tr}\!\big(\exp(H + \log A)\big)  
 $$
+
 is **concave** in the positive definite matrix \( A \).  
 
 
 ## Corollary 1  
   
 By applying Jensen’s inequality to the concave function above, we obtain  
+
 $$
 \mathbb{E}\!\left[ \operatorname{tr}\!\big(\exp(H + \log A)\big) \right] 
 \;\leq\;  
 \operatorname{tr}\!\left(\exp\!\big(H + \log \mathbb{E}[A]\big)\right).  
 $$
   
-Now consider the substitution $A = \exp(Y)$. Then the inequality becomes  
+Now consider the substitution $A = \exp(Y)$. Then the inequality becomes 
+ 
 $$
 \mathbb{E}\!\left[ \operatorname{tr}\!\big(\exp(H + Y)\big) \right]  
 \;\leq\;  
