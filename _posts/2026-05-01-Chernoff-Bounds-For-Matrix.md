@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chernoff bounds for matrix
-date: 2025-05-01 00:25:00
+date: 2026-05-01 00:25:00
 description: Matrix Concentration Inequalities
 tags: formatting charts
 categories: statistics
@@ -13,7 +13,7 @@ thumbnail: assets/img/9.jpg
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\posts\Chernoff-bounds-for-matrix-2026-05-01\dog.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/Chernoff-bounds-for-matrix-2026-05-01/dog.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,10 +34,11 @@ For the expectation of maximum eigenvalue.
 
 
 From Jensen's Inequality, we have
-$$
 
+$$
 \exp(\theta \mathbb{E}[\lambda_{\max}(Y)]) \leq \mathbb{E}\exp(\theta \lambda_{\max}(Y))
 $$
+
 Rearrange the terms and follow similar steps taken in deriving the tail bound of maximum eigenvalue.
 
 $$
