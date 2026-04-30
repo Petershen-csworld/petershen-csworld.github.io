@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chernoff bounds for matrix
-date: 2026-05-01 00:25:00
+date: 2026-04-31 00:25:00
 description: Matrix Concentration Inequalities
 tags: formatting charts
 categories: statistics
