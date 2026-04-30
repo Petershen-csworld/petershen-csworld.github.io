@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-chernoff-bounds-for-matrix",
-        
-          title: "Chernoff bounds for matrix",
-        
-        description: "Matrix Concentration Inequalities",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Chernoff-Bounds-For-Matrix/";
-          
-        },
-      },{id: "post-johnson-lindenstrauss-lemma-informal",
+            },{id: "post-johnson-lindenstrauss-lemma-informal",
         
           title: "Johnson Lindenstrauss Lemma (Informal)",
         
@@ -91,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/JL-Lemma/";
+            window.location.href = "/blog/2026/JL-Lemma/";
           
         },
       },{id: "post-a-post-with-plotly-js",
