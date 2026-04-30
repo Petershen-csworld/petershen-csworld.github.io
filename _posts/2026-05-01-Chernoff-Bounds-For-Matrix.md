@@ -13,7 +13,7 @@ thumbnail: assets/img/9.jpg
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/Chernoff-bounds-for-matrix-2026-05-01/dog.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/liandengdog.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -73,7 +73,7 @@ $$
 $$
   
 Now consider the substitution $A = \exp(Y)$. Then the inequality becomes 
- 
+
 $$
 \mathbb{E}\!\left[ \operatorname{tr}\!\big(\exp(H + Y)\big) \right]  
 \;\leq\;  
