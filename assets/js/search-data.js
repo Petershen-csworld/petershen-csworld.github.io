@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-chernoff-bounds-for-matrix",
+            },{id: "post-euler-lagrange-equations",
+        
+          title: "EULER-LAGRANGE EQUATIONS",
+        
+        description: "Derivations of euler-lagrange theroem under classical particle theory and field theory (TBD.)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/EULER-LAGRANGE-EQUATIONS/";
+          
+        },
+      },{id: "post-chernoff-bounds-for-matrix",
         
           title: "Chernoff bounds for matrix",
         
@@ -99,10 +110,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-breaking-news-a-dog-fly-to-the-sky",
-          title: 'Breaking news: a dog fly to the sky!',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -147,11 +155,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
