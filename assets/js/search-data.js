@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-euler-lagrange-equations",
-        
-          title: "EULER-LAGRANGE EQUATIONS",
-        
-        description: "Derivations of euler-lagrange theroem under classical particle theory and field theory (TBD.)",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/EULER-LAGRANGE-EQUATIONS/";
-          
-        },
-      },{id: "post-chernoff-bounds-for-matrix",
+            },{id: "post-chernoff-bounds-for-matrix",
         
           title: "Chernoff bounds for matrix",
         
