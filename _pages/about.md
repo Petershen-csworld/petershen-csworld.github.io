@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hong Kong University</p>
+    <p>Golden Retriver</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Haoyu Shen.
+My name is Haoyu Shen. I got Bachelor's degree at the School of the Gifted Young (SGY), University of Science and
+Technology of China (USTC) in 2026. 
+
