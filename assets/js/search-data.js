@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-chernoff-bounds-for-matrix",
+            },{id: "post-logtrick",
+        
+          title: "LogTrick",
+        
+        description: "A guide to logtrick, a strategy useful for subarray problems in competitive programming.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/LogTrick/";
+          
+        },
+      },{id: "post-chernoff-bounds-for-matrix",
         
           title: "Chernoff bounds for matrix",
         
