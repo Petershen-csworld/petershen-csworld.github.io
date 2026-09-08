@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-logtrick",
+            },{id: "post-香港影像集-從啟德機場到城市街角",
+        
+          title: "香港影像集：從啟德機場到城市街角",
+        
+        description: "九張攝於 1987–2024 年間的香港照片，沿著維港、啟德機場與街景，回望近四十年的城市片段。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/hong-kong-gallery/";
+          
+        },
+      },{id: "post-logtrick",
         
           title: "LogTrick",
         
