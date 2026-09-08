@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: School of the Gifted Young · University of Science and Technology of China
 
 profile:
   align: right
   image: prof_pic.jpg
+  image_alt: Golden retriever
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Golden Retriver</p>
-
+    <p>Golden Retriever</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Haoyu Shen. I got Bachelor's degree at the School of the Gifted Young (SGY), University of Science and
-Technology of China (USTC) in 2026. 
-
+My name is **Haoyu Shen**. I received my bachelor's degree from the School of the Gifted Young (SGY) at the University of Science and Technology of China (USTC) in 2026.
