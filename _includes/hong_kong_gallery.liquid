@@ -1,0 +1,28 @@
+<div class="hk-gallery" lang="zh-Hant">
+  {% for photo in site.data.hong_kong_gallery %}
+    <figure class="hk-gallery-item">
+      <a class="hk-gallery-image" href="{{ photo.image | relative_url }}" aria-label="{{ photo.title | prepend: '查看大圖：' | escape }}">
+        <img
+          src="{{ photo.image | relative_url }}"
+          alt="{{ photo.alt | escape }}"
+          width="{{ photo.width }}"
+          height="{{ photo.height }}"
+          loading="lazy"
+          decoding="async"
+        >
+      </a>
+      <figcaption>
+        <p class="hk-gallery-year">{{ photo.year }}</p>
+        <h2>{{ photo.title }}</h2>
+        <p>{{ photo.caption }}</p>
+        <p class="hk-gallery-credit">
+          攝影：{{ photo.author | escape }} · <a href="{{ photo.license_url | escape }}">{{ photo.license | escape }}</a><br>
+          <a href="{{ photo.source | escape }}">原始照片與來源</a>
+        </p>
+        {% if photo.date_note != empty %}
+          <p class="hk-gallery-credit">{{ photo.date_note }}</p>
+        {% endif %}
+      </figcaption>
+    </figure>
+  {% endfor %}
+</div>
